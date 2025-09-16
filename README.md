@@ -38,13 +38,37 @@ Pseudocode:
 
 FlowChart:
 
-![Exercise 1 Flowchart](./flowcharts/exercise2_flowchart.png)
+![Exercise 2 Flowchart](./flowcharts/exercise2_flowchart.png)
 
 ## Exercise 3
 
 Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
 
 > Given that the three numbers are not equal to each other)
+
+Pseudocode:
+
+```
+Start
+Input num1, num2, num3
+largest = num1
+
+    If num2 > largest Then
+        largest = num2
+    End If
+
+    If num3 > largest Then
+        largest = num3
+    End If
+
+    Print largest
+
+End
+```
+
+FlowChart:
+
+![Exercise 3 Flowchart](./flowcharts/exercise3_flowchart.png)
 
 ## Exercise 4
 
