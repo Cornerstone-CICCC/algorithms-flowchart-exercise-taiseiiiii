@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gOIoHK0u)
+
 # Flowchart Exercises
 
 ## Requirements
@@ -20,6 +21,10 @@ Pseudocode:
 - Input length in feet (LFT)
 - Calculate the length in cm (LCM) by multiplying LFT by 30
 - Print length in cm (LCM)
+
+FlowChart:
+
+![Exercise 1 Flowchart](./flowcharts/exercise1_flowchart.png)
 
 ## Exercise 2
 
