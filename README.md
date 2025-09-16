@@ -106,3 +106,28 @@ Display the grades as per the table given below:
 | 60% or more but less than 80% | B        |
 | 40% or more but less than 60% | C        |
 | Less than 40%                 | No Grade |
+
+```
+Start
+    Input student_name
+    Input marks
+
+    If marks >= 80 Then
+        grade = "A"
+    Else If marks >= 60 Then
+        grade = "B"
+    Else If marks >= 40 Then
+        grade = "C"
+    Else
+        grade = "No Grade"
+    End If
+
+    Print student_name
+    Print "Marks: " + marks
+    Print "Grade: " + grade
+End
+```
+
+FlowChart:
+
+![Exercise 5 Flowchart](./flowcharts/exercise5_flowchart.png)
