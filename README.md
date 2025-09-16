@@ -74,6 +74,24 @@ FlowChart:
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
+Pseudocode:
+
+```
+Start
+    Input a, b, c
+
+    If (a + b > c) AND (a + c > b) AND (b + c > a) Then
+        Print "Triangle is possible"
+    Else
+        Print "Triangle is not possible"
+    End If
+End
+```
+
+FlowChart:
+
+![Exercise 4 Flowchart](./flowcharts/exercise4_flowchart.png)
+
 ## Exercise 5
 
 Draw the flowchart for the following:
